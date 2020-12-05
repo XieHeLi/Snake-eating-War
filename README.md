@@ -1,6 +1,6 @@
 # Snake-eating-War
 This is a game involving a war between two slithers, which is completed by c++ with OpenGL.
-
+The main function is contained in the Project_Snake.cpp. Make sure that the OpenGL envirnment is available before rerun this project.
 
 Player1 controls the snake with keyboard : W, A, S and D
 Player2 with ↑, ↓, ← and → 
